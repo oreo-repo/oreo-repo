@@ -4,7 +4,7 @@ I'm one of those people who you'd just find sitting on litteraly anything and co
 
 ## What I use to code
 
-I'm just one of those people who don't go installing visual studio on 64GB of storage... (Even though I have 256GB) I'd rather waste my storage and money on Visual Studio for Windows 11! It's a lot easier to edit and markup code with! And it takes about a gigabyte of storage! I am only one person so I am hoping to get a big audience! I also am making a lot of projects so yeah...
+I'm just one of those people who don't go installing visual studio on 64GB of storage... (Even though I have 256GB) I'd rather waste my storage and money on Visual Studio Code for Windows 11! It's a lot easier to edit and markup code with! And it takes about a gigabyte of storage! I am only one person so I am hoping to get a big audience! I also am making a lot of projects so yeah...
 
 ## My computer
 
